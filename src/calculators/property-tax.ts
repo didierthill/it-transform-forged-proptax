@@ -90,7 +90,7 @@ function getMunicipalityName(postalCode: string): string | undefined {
     '1040': 'Etterbeek', '1150': 'Woluwe-Saint-Pierre', '1160': 'Auderghem',
     '1170': 'Watermael-Boitsfort', '1180': 'Uccle', '1190': 'Forest',
     '1200': 'Woluwe-Saint-Lambert', '1210': 'Saint-Josse',
-    '4000': 'Liège', '5000': 'Namur', '6000': 'Charleroi', '7000': 'Mons',
+    '4000': 'Liège', '5000': 'Namur', '6000': 'Charleroi', '7000': 'Mons', '7040': 'Quévy',
     '1300': 'Wavre', '1340': 'Ottignies-LLN',
     '2000': 'Anvers', '9000': 'Gand', '8000': 'Bruges',
     '3000': 'Louvain', '2800': 'Malines', '3500': 'Hasselt',

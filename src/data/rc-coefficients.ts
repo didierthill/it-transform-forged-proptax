@@ -82,6 +82,7 @@ export const MUNICIPAL_CENTIMES: Record<string, number> = {
   '5000': 2550, // Namur
   '6000': 2950, // Charleroi
   '7000': 2800, // Mons
+  '7040': 2800, // Quévy
   '1300': 2100, // Wavre
   '1340': 2150, // Ottignies-LLN
   '5100': 2450, // Jambes/Namur
